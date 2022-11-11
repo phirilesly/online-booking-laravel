@@ -19,7 +19,7 @@ Route::get('/', function () {
 
 
 
-
+Route::resource('users', App\Http\Controllers\UserController::class);
 
 
 Route::get('/rooms', [\App\Http\Controllers\RoomController::class, 'index']);
