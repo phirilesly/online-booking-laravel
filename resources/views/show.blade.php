@@ -88,6 +88,8 @@
 
                                                                                                                                         
         <button x-on:click="pay('Essential')" class="w-full block text-center relative text-white font-bold text-sm bg-[#f17f2e] px-4 py-3 rounded-lg shadow-lg border border-green-700 hover:bg-white hover:text-black">Book now</button>
+
+        
                                                                                                                         
       </div>
                     
